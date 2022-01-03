@@ -6,8 +6,8 @@
    .text-block {
       background-color: blue;
       display: block;
-      width: 187px;
-      height: 21px;
+      width: 227px;
+      height: 211px;
       overflow: hidden;
   }
 .text-block:hover {
